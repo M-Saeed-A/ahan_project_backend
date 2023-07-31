@@ -1,0 +1,10 @@
+{
+    "platform": "django",
+    "app": "django-ahan",
+    "disks": [
+        {
+            "name": "data",
+            "mountTo": "media"
+        }
+    ]
+}

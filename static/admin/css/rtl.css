@@ -1,0 +1,193 @@
+.sidebar-mini.sidebar-collapse .content-wrapper {
+  margin-left: 0 !important;
+}
+.main-sidebar .brand-link {
+  display: flex;
+  align-items: center;
+}
+.main-sidebar .brand-link .img-circle {
+  margin-top: 0;
+}
+.sidebar .user-panel {
+  padding-right: 0.5rem;
+}
+.sidebar .user-panel {
+  display: flex;
+  align-items: center;
+}
+.sidebar nav.mt-2 {
+  margin-right: -41px;
+}
+
+.wrapper .main-header .navbar-nav:first-child {
+  display: none;
+}
+body {
+  text-align: right !important;
+}
+
+/* sidebar-collapse */
+.wrapper .main-header.navbar {
+  margin: 0 !important;
+}
+/* .main-sidebar#jazzy-sidebar {
+    display: flex !important;
+    justify-items: center !important;
+} */
+.wrapper .main-header ul.ml-auto {
+  margin-right: 17px;
+}
+.dropdown-menu.dropdown-menu-lg {
+  text-align: right !important;
+}
+.wrapper .content-wrapper {
+  margin-right: 50px;
+}
+
+.row .breadcrumb {
+  flex-direction: row-reverse !important;
+  align-items: center !important;
+}
+
+.table tr td div.btn-group {
+  float: left !important;
+}
+.table tr td div.btn-group a {
+  margin: 0 5px;
+  padding: 5px 10px;
+  border-radius: 5px !important;
+}
+.table tr td {
+  vertical-align: middle !important;
+}
+.table tr td a {
+  vertical-align: middle !important;
+}
+
+.timeline .timeline-item .timeline-header {
+  text-align: left !important;
+}
+.main-footer {
+  margin-right: 50px;
+  visibility: hidden !important;
+}
+.main-footer div {
+  display: none !important;
+}
+.main-footer strong {
+  visibility: visible !important;
+}
+
+body {
+  font-family: Vazirmatn;
+}
+
+#result_list tbody tr td,
+th {
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+#result_list thead tr th {
+  padding-left: 10px !important;
+}
+.card-body .form-group .row label {
+  margin-left: -50px;
+  text-align: right !important;
+}
+.sidebar li.nav-item a.nav-link {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+.sidebar li a i {
+  margin-right: 4px !important;
+  /* margin-top: 5px !important; */
+}
+.sidebar li.nav-item a.nav-link p {
+  margin-right: 20px;
+  margin-top: 2px;
+}
+
+aside.main-sidebar {
+  position: fixed !important;
+}
+@font-face {
+  font-family: Vazirmatn;
+  src: url("../fonts/Vazirmatn-FD-Thin.woff2") format("woff2"),
+    url("../fonts/Vazirmatn-FD-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("../fonts/Vazirmatn-FD-ExtraLight.woff2") format("woff2"),
+    url("../fonts/Vazirmatn-FD-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("../fonts/Vazirmatn-FD-Light.woff2") format("woff2"),
+    url("../fonts/Vazirmatn-FD-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("../fonts/Vazirmatn-FD-Regular.woff2") format("woff2"),
+    url("../fonts/Vazirmatn-FD-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("../fonts/Vazirmatn-FD-Medium.woff2") format("woff2"),
+    url("../fonts/Vazirmatn-FD-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("../fonts/Vazirmatn-FD-SemiBold.woff2") format("woff2"),
+    url("../fonts/Vazirmatn-FD-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("../fonts/Vazirmatn-FD-Bold.woff2") format("woff2"),
+    url("../fonts/Vazirmatn-FD-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("../fonts/Vazirmatn-FD-ExtraBold.woff2") format("woff2"),
+    url("../fonts/Vazirmatn-FD-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("../fonts/Vazirmatn-FD-Black.woff2") format("woff2"),
+    url("../fonts/Vazirmatn-FD-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
